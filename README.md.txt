@@ -7,6 +7,7 @@ Prerequisites:
 ->VirtualBox
 
 How To Install
+
 1.Install Vagrant and VirtualBox.
 2.Download fullstack-nanodegree-vm repository.
 3.Unzip this file after downloading it.
